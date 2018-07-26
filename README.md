@@ -1,5 +1,4 @@
 # Data-Visualizations
 Gallery of data visualizations I've created
 
-
-![Korean War Bombings](Korean-War-Bombings/Korean-War-Bombings.png){:height="300px" width="300px"}
+<img src='Korean-War-Bombings/Korean-War-Bombings.png' width=300 height=300 />
