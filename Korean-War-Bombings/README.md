@@ -1,5 +1,5 @@
 # Korean War Bombings
-#### A map created using d3.js that shows the location of US bombings during the Korean War, using data from the [Theater History of Operations](https://data.world/datamil/korean-war-thor-data).
+#### A map created using d3.js that shows the location of aerial bombings during the Korean War, using data from the [Theater History of Operations](https://data.world/datamil/korean-war-thor-data).
 
 
 ![Korean War Bombings](Korean-War-Bombings.png)
